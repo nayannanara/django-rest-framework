@@ -7,6 +7,7 @@ class Atracao(models.Model):
     horario_func = models.CharField(max_length=200)
     idade_min = models.IntegerField()
     aprovado = models.BooleanField(default=False)
+    image = models.ImageField(upload_to='atracoes', null=True, blank=True)
 
     def __str__(self):
         return self.nome
