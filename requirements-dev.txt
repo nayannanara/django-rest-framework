@@ -1,8 +1,8 @@
 alabaster==0.7.12
 alembic==1.5.2
-# anaconda-client==1.7.2
-# anaconda-navigator==1.10.0
-# anaconda-project==0.8.3
+anaconda-client==1.7.2
+anaconda-navigator==1.10.0
+anaconda-project==0.8.3
 appdirs==1.4.4
 argh==0.26.2
 argon2-cffi @ file:///tmp/build/80754af9/argon2-cffi_1596828493937/work
@@ -16,9 +16,9 @@ attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
 autopep8 @ file:///tmp/build/80754af9/autopep8_1596578164842/work
 Babel @ file:///tmp/build/80754af9/babel_1605108370292/work
 backcall==0.2.0
-backports.functools-lru-cache==1.6.1
+backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1605305165209/work
 backports.shutil-get-terminal-size==1.0.0
-backports.tempfile==1.0
+backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
 backports.weakref==1.0.post1
 bcrypt==3.2.0
 beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1601924105527/work
@@ -38,7 +38,7 @@ cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
 clyent==1.2.2
 colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
 conda==4.9.2
-conda-build==3.20.5
+conda-build==3.21.4
 conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1603018141399/work
 conda-verify==3.4.2
 contextlib2==0.6.0.post1
